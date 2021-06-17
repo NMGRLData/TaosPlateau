@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0032805891145227064,
+        "error": 0.001811600341539523,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "parabolic",
+        "fit": "linear",
         "fn": 340,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 1.2855055276840104
+        "value": 1.2846569950926991
     },
     "Ar37": {
         "error": 0.01883771970675018,
@@ -30,7 +30,7 @@
         },
         "fit": "linear",
         "fn": 340,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [],
         "reviewed": true,
@@ -49,7 +49,7 @@
         },
         "fit": "linear",
         "fn": 338,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [
             212,
@@ -71,7 +71,7 @@
         },
         "fit": "parabolic",
         "fn": 337,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [
             113,
@@ -83,7 +83,7 @@
         "value": 91.11709554502951
     },
     "Ar40": {
-        "error": 0.05564075659259857,
+        "error": 0.030917231622821853,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -92,9 +92,9 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "parabolic",
+        "fit": "linear",
         "fn": 335,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [
             235,
@@ -105,6 +105,6 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 416.6180446347788
+        "value": 416.5959535612172
     }
 }
