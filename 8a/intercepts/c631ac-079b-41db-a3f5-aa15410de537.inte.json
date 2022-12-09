@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0008310755445303117,
+        "error": 0.001531227028588395,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -9,20 +9,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
-        "fn": 338,
+        "fit": "parabolic",
+        "fn": 340,
         "include_baseline_error": false,
         "n": 340,
-        "outlier_excluded": [
-            135,
-            39
-        ],
+        "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.30767261795926304
+        "value": 0.3058825448857407
     },
     "Ar37": {
-        "error": 0.027236996273636665,
+        "error": 0.02723699627363672,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -47,7 +44,7 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 186.8567833915016
+        "value": 186.85678339150166
     },
     "Ar38": {
         "error": 0.005656645964611269,
@@ -69,10 +66,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.6075605254842629
+        "value": 0.6075605254842631
     },
     "Ar39": {
-        "error": 0.016694597094676477,
+        "error": 0.016694597094679922,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -91,10 +88,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 22.7120647993223
+        "value": 22.712064799322327
     },
     "Ar40": {
-        "error": 0.03699175725591329,
+        "error": 0.03699175725591531,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -114,6 +111,6 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 79.78061617793684
+        "value": 79.78061617793674
     }
 }
